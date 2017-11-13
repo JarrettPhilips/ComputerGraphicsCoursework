@@ -1,5 +1,3 @@
-package coursework;
-
 /*
 Jarrett Philips
 Student ID: 160924936
@@ -32,7 +30,6 @@ public class ParallelAnimator extends Animator {
 	*/
 	protected void setupCamera(){
 	camera = new Camera(-5,5,-5,5);
-	System.out.println("cufcs");
 	}
 	
 	protected void animate(Graphics g){

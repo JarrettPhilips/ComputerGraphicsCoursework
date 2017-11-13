@@ -1,5 +1,3 @@
-package coursework;
-
 /*
 Jarrett Philips
 Student ID: 160924936
