@@ -18,6 +18,9 @@ To run, simply navigate to the directory of the java files, and use the makefile
 ### Parallel Animator
 This code is contained in the Perspective Animator, but I have included it's basic state here for completeness. This is a basic parallel rendering engine. 
 
+![Figure 1-1](https://github.com/JarrettPhilips/ComputerGraphicsCoursework/blob/master/PerspectiveImage.png?raw=true "Parallel Rendering")
+
+
 To run, simply navigate to the directory of the java files, and use the makefile to compile the source code.
 ~~~~ 
 >make
