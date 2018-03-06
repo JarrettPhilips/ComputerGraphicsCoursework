@@ -7,6 +7,8 @@ This is a basic rendering engine. It implements basic shapes by creating faces f
 ### Perspective Animator
 This is a basic perspective (and parallel) rendering engine.
 
+![Figure 1-1](https://github.com/JarrettPhilips/ComputerGraphicsCoursework/blob/master/ParallelImage.png?raw=true "Parallel Rendering")
+
 To run, simply navigate to the directory of the java files, and use the makefile to compile the source code.
 ~~~~ 
 >make
