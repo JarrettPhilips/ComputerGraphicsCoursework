@@ -2,7 +2,7 @@
 **Jarrett Philips**
 
 ### Overview
-This is a basic rendering engine. It implements basic 3D objects from data files provided to it. It is built using only a library to draw polygons, so all of the translation and matrix math is done "by hand". It features clipping, movement, rotation, and most basic functions of a graphics engine. The **Perspective Animator** also runs a small window to allow the user to switch between Perspective and Parallel rendering. 
+This is a basic rendering engine. It implements basic 3D objects from data files provided to it. It is built using only a library to draw polygons, so all of the translation and matrix math is done "by hand". It features clipping, movement, rotation, and most basic functions of a graphics engine. The Perspective Animator also runs a small window to allow the user to switch between Perspective and Parallel rendering. 
 
 ### Perspective Animator
 This is a basic perspective (and parallel) rendering engine.
